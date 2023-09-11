@@ -7,5 +7,5 @@ Put ME dataset to "Dataset/Cropped" folder
 
 Run "save_process_image.py" script to perform data pre-processing
 
-Run "train.py" script too perform deep learing model training
+Run "train.py" script to perform deep learing model training
 
